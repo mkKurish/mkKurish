@@ -35,6 +35,13 @@ The most priority tools, as for me, are kotlin with jetpack compose.
 I'm looking for a job, where I would have the opportunity to get 
 important experience in the field of modern technologies.
 
+>#### Education
+>
+>- State university of aerospace instrumentation (SUAI)
+>- Department №43 (Computer Technologies and Software Engineering)
+>- Faculty "Software Development"
+>- Saint-Petersburg, Russia
+
 ## Stats
 
 <table>
