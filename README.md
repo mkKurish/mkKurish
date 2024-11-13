@@ -19,22 +19,6 @@
 
 ## About me
 
-I started my programming journey in 2017 with Visual Basic.
-After learning the basics, I became more interested in IT.
-When I started learning C#, I got acquainted with OOP. 
-
-I have experience in solving sports programming problems. 
-Familiar with dynamic programming. I used Python for this kind of activity.
-
-I enrolled in courses on mobile development (Samsung IT-school) and started programming in Java.
-I gained experience using the framework - the game engine for Java - libGDX, 
-using which I wrote the [project](https://github.com/mkKurish/Extract_game).
-
-Now I'm interested in mobile development. 
-The most priority tools, as for me, are kotlin with jetpack compose.
-I'm looking for a job, where I would have the opportunity to get 
-important experience in the field of modern technologies.
-
 >#### Education
 >
 >- State university of aerospace instrumentation (SUAI)
