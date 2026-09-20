@@ -19,8 +19,13 @@
 
 ## About me
 
->#### Education
->
+#### Education
+
+>- National Research University ITMO
+>- Faculty of Software Engineering and Computer Technology
+>- Design and development of AI systems
+>- Saint-Petersburg, Russia
+
 >- State university of aerospace instrumentation (SUAI)
 >- Department №43 (Computer Technologies and Software Engineering)
 >- Faculty "Software Development"
